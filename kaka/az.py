@@ -2,8 +2,8 @@ import csv
 from telegram import Bot
 
 # Replace the API token and chat ID with your own values
-api_token = '1400065885:AAFZK2XGeD8Ym0hp2z5KsnhxjtycXDjzhzE'
-chat_id = '@stevenalbaghdadichat'
+api_token = '6828057178:AAHqPwGLJMPdM1_B1FQarf9a6_4O3j0XU88'
+chat_id = '@ER_BX'
 
 bot = Bot(api_token)
 
